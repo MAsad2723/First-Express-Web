@@ -1,0 +1,6 @@
+Details of User:
+	Name : Asad.
+	Age : 19.
+	Gender : Male.
+	Address : Apne ghar par rehta hun.
+	More details : Chal be chal mera mood nhi horha.
