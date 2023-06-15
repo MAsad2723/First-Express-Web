@@ -1,6 +1,6 @@
 Details of User:
 	Name : Asad.
-	Age : 19.
-	Gender : Male.
-	Address : sakjsnsdjask.
-	More details : sdjsasakjdnsajkd.
+	Age : .
+	Gender : .
+	Address : .
+	More details : .

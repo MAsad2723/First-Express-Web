@@ -20,6 +20,8 @@ app.post('/', (req, res) => {
     const gender = req.body.gender;
     const address = req.body.address;
     const more = req.body.more;
+    let str = `Details of User:\n\tName : ${Name}.\n\tAge : ${age}.\n\tGender : ${gender}.\n\tAddress : ${address}.\n\tMore details : ${more}.`;
+    fs.writeFileSync('output.txt', str);
     res.sendFile(__dirname + '/static/index.html');
 })
 // Start the server
