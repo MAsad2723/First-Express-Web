@@ -1,6 +1,0 @@
-Details of User:
-	Name : .
-	Age : .
-	Gender : .
-	Address : .
-	More details : .
